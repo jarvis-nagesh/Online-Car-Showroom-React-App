@@ -1,0 +1,10 @@
+[
+    {
+        "seg_id": 1,
+        "seg_name": "Small Car"
+    },
+    {
+        "seg_id": 2,
+        "seg_name": "Compact Car"
+    }
+]

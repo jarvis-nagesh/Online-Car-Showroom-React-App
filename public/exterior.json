@@ -1,0 +1,59 @@
+[
+    { 
+        "modif_id": 1,
+        "variant_id": 1,
+        "spec_id": 14,
+        "modif_name": "Exterior Mirrors",
+        "choices": [
+            {
+                "choice_id":1,
+                "choice_name":"None",
+                "price":0
+            },
+            {
+                "choice_id":2,
+                "choice_name":"New Automotive Mirror Advancements",
+                "price":2500
+            },
+            {
+                "choice_id":3,
+                "choice_name":"Side View Mirrors",
+                "price":1000
+            },
+            {
+                "choice_id":4,
+                "choice_name":"The Rear-View Mirror",
+                "price":900
+            }
+        ],
+        "modif_price": 7000
+    },{ 
+        "modif_id": 2,
+        "variant_id": 1,
+        "spec_id": 15,
+        "modif_name": "Wheel Covers",
+        "choices": [
+            {
+                "choice_id":1,
+                "choice_name":"None",
+                "price":0
+            },
+            {
+                "choice_id":2,
+                "choice_name":"Hotwheelz Premium Quality Sporty Wheel",
+                "price":2500
+            },
+            {
+                "choice_id":3,
+                "choice_name":"Ubom 15-inch Tyre Sport Rim cover",
+                "price":2700
+            },
+            {
+                "choice_id":4,
+                "choice_name":"Kunj Autotech wheel cover Wheel",
+                "price":2000
+            }
+        ],
+        "modif_price": 7000
+    }
+]

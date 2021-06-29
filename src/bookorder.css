@@ -1,0 +1,21 @@
+
+.bookimg{
+  width: 100%!important;
+  height:100vh!important;
+  margin-top: 10%!important;
+    float:left;
+    clear:both;
+}
+
+.bookorderform{
+  font-family: 'Righteous'!important;
+  width: 50%!important;
+    text-align: center!important;
+
+}
+
+@media only screen and (max-width:720px) {
+  img .bookimg{
+    display:none!important;
+  }
+}

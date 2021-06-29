@@ -1,0 +1,500 @@
+[
+    {
+        "variant_id": 1,
+        "car_name" : "Maruti Suzuki-Elite i20",
+        "spec_type": "name"
+    },
+    {
+        "spec_id": 1,
+        "spec_name": "ARAI : 34.43kmpl",
+        "spec_type": "default",
+        "is_config": "yes",
+        "variant_id": 1
+    },
+    {
+        "spec_id": 2,
+        "spec_name": "City Mileage : 12.34 kmpl",
+        "spec_type": "default",
+        "is_config": "yes",
+        "variant_id": 1
+    },
+    {
+        "spec_id": 3,
+        "spec_name": "Fuel Type : petrol",
+        "spec_type": "default",
+        "is_config": "yes",
+        "variant_id": 1
+    },
+    {
+        "spec_id": 4,
+        "spec_name": "Engine displacement : 1199cc",
+        "spec_type": "default",
+        "is_config": "yes",
+        "variant_id": 1
+    },
+    {
+        "spec_id": 5,
+        "spec_name": "Seating Capacity : 5",
+        "spec_type": "default",
+        "is_config": "yes",
+        "variant_id": 1
+    },
+    {
+        "spec_id": 6,
+        "spec_name": "Tachometer",
+        "spec_type": "interior",
+        "is_config": "yes",
+        "variant_id": 1
+    },
+    {
+        "spec_id": 7,
+        "spec_name": "Seat cover",
+        "spec_type": "interior",
+        "is_config": "yes",
+        "variant_id": 1
+    },
+    {
+        "spec_id": 8,
+        "spec_name": "Electronic Multi-Tripmeter",
+        "spec_type": "interior",
+        "is_config": "yes",
+        "variant_id": 1
+    },
+    
+    {
+        "spec_id": 9,
+        "spec_name": "Steering Wheel",
+        "spec_type": "interior",
+        "is_config": "yes",
+        "variant_id": 1
+    },
+    {
+        "spec_id": 10,
+        "spec_name": "Gear-Shift Selector Wrap",
+        "spec_type": "interior",
+        "is_config": "yes",
+        "variant_id": 1
+    },
+    {
+        "spec_id": 11,
+        "spec_name": "Air bag",
+        "spec_type": "interior",
+        "is_config": "yes",
+        "variant_id": 1
+    },
+    {
+        "spec_id": 12,
+        "spec_name": "Headlights",
+        "spec_type": "exterior",
+        "is_config": "yes",
+        "variant_id": 1
+    },
+    {
+        "spec_id": 13,
+        "spec_name": "Foglights Front and Rear",
+        "spec_type": "exterior",
+        "is_config": "yes",
+        "variant_id": 1
+    },
+    {
+        "spec_id": 14,
+        "spec_name": "Exterior Mirrors",
+        "spec_type": "exterior",
+        "is_config": "yes",
+        "variant_id": 1
+    },
+    {
+        "spec_id": 15,
+        "spec_name": "Wheel Covers",
+        "spec_type": "exterior",
+        "is_config": "yes",
+        "variant_id": 1
+    },
+    {
+        "spec_id": 16,
+        "spec_name": "Roof Carrier",
+        "spec_type": "exterior",
+        "is_config": "yes",
+        "variant_id": 1
+    },
+    {
+        "spec_id": 17,
+        "spec_name": "Antenna",
+        "spec_type": "exterior",
+        "is_config": "yes",
+        "variant_id": 1
+    },
+    {
+        "variant_id": 2,
+        "car_name" : "Hyundai-Celerio",
+        "spec_type": "name"
+    },
+    {
+        "spec_id": 1,
+        "spec_name": "ARAI : 23.1 kmpl",
+        "spec_type": "default",
+        "is_config": "yes",
+        "variant_id": 2
+    },
+    {
+        "spec_id": 2,
+        "spec_name": "Transmission Type : Manual",
+        "spec_type": "default",
+        "is_config": "yes",
+        "variant_id": 2
+    },
+    {
+        "spec_id": 3,
+        "spec_name": "Fuel Tank Capacity : 35",
+        "spec_type": "default",
+        "is_config": "yes",
+        "variant_id": 2
+    },
+    {
+        "spec_id": 4,
+        "spec_name": "Engine displacement : 1308cc",
+        "spec_type": "default",
+        "is_config": "yes",
+        "variant_id": 2
+    },
+    {
+        "spec_id": 5,
+        "spec_name": "Seating Capacity : 7",
+        "spec_type": "default",
+        "is_config": "yes",
+        "variant_id": 2
+    },
+    {
+        "spec_id": 6,
+        "spec_name": "Glove Compartment",
+        "spec_type": "interior",
+        "is_config": "yes",
+        "variant_id": 2
+    },
+    {
+        "spec_id": 7,
+        "spec_name": "Seat Cover",
+        "spec_type": "interior",
+        "is_config": "yes",
+        "variant_id": 2
+    },
+    {
+        "spec_id": 8,
+        "spec_name": "Fabric Upholstery",
+        "spec_type": "interior",
+        "is_config": "yes",
+        "variant_id": 2
+    },
+    {
+        "spec_id": 9,
+        "spec_name": "Tachometer",
+        "spec_type": "interior",
+        "is_config": "yes",
+        "variant_id": 2
+    },
+    {
+        "spec_id": 10,
+        "spec_name": "Digital Clock",
+        "spec_type": "interior",
+        "is_config": "yes",
+        "variant_id": 2
+    },
+    {
+        "spec_id": 11,
+        "spec_name": "Air Bag",
+        "spec_type": "interior",
+        "is_config": "yes",
+        "variant_id": 2
+    },
+    {
+        "spec_id": 12,
+        "spec_name": "Wheel Covers",
+        "spec_type": "exterior",
+        "is_config": "yes",
+        "variant_id": 2
+    },
+    {
+        "spec_id": 13,
+        "spec_name": "Power Antenna",
+        "spec_type": "exterior",
+        "is_config": "yes",
+        "variant_id": 2
+    },
+    {
+        "spec_id": 14,
+        "spec_name": "Exterior Mirrors",
+        "spec_type": "exterior",
+        "is_config": "yes",
+        "variant_id": 2
+    },
+    {
+        "spec_id": 15,
+        "spec_name": "Wheel Covers",
+        "spec_type": "exterior",
+        "is_config": "yes",
+        "variant_id": 2
+    },
+    {
+        "spec_id": 16,
+        "spec_name": "Tyre Type : Tubeless Radial",
+        "spec_type": "exterior",
+        "is_config": "yes",
+        "variant_id": 2
+    },
+    {
+        "spec_id": 17,
+        "spec_name": "Trunk Opener",
+        "spec_type": "exterior",
+        "is_config": "yes",
+        "variant_id": 2
+    },
+    {
+        "variant_id": 3,
+        "car_name" : "Tata-Tigore",
+        "spec_type": "name"
+    },
+    {
+        "spec_id": 1,
+        "spec_name": "ARAI : 29.65kmpl",
+        "spec_type": "default",
+        "is_config": "yes",
+        "variant_id": 3
+    },
+    {
+        "spec_id": 2,
+        "spec_name": "City Mileage : 34.54 kmpl",
+        "spec_type": "default",
+        "is_config": "yes",
+        "variant_id": 3
+    },
+    {
+        "spec_id": 3,
+        "spec_name": "Fuel Type : Diesel",
+        "spec_type": "default",
+        "is_config": "yes",
+        "variant_id": 3
+    },
+    {
+        "spec_id": 4,
+        "spec_name": "Engine displacement : 1199cc",
+        "spec_type": "default",
+        "is_config": "yes",
+        "variant_id": 3
+    },
+    {
+        "spec_id": 5,
+        "spec_name": "Seating Capacity : 6",
+        "spec_type": "default",
+        "is_config": "yes",
+        "variant_id": 3
+    },
+    {
+        "spec_id": 7,
+        "spec_name": "Seat Cover",
+        "spec_type": "interior",
+        "is_config": "yes",
+        "variant_id": 3
+    },
+    {
+        "spec_id": 6,
+        "spec_name": "Tachometer",
+        "spec_type": "interior",
+        "is_config": "yes",
+        "variant_id": 3
+    },
+    
+    {
+        "spec_id": 8,
+        "spec_name": "Electronic Multi-Tripmeter",
+        "spec_type": "interior",
+        "is_config": "yes",
+        "variant_id": 3
+    },
+    {
+        "spec_id": 10,
+        "spec_name": "Gear-Shift Selector Wrap",
+        "spec_type": "interior",
+        "is_config": "yes",
+        "variant_id": 3
+    },
+    {
+        "spec_id": 11,
+        "spec_name": "Air bag",
+        "spec_type": "interior",
+        "is_config": "yes",
+        "variant_id": 3
+    },
+    {
+        "spec_id": 9,
+        "spec_name": "Steering Wheel",
+        "spec_type": "interior",
+        "is_config": "yes",
+        "variant_id": 3
+    },
+    {
+        "spec_id": 14,
+        "spec_name": "Exterior Mirrors",
+        "spec_type": "exterior",
+        "is_config": "yes",
+        "variant_id": 3
+    },
+    {
+        "spec_id": 15,
+        "spec_name": "Wheel Covers",
+        "spec_type": "exterior",
+        "is_config": "yes",
+        "variant_id": 3
+    },
+    {
+        "spec_id": 12,
+        "spec_name": "Headlights",
+        "spec_type": "exterior",
+        "is_config": "yes",
+        "variant_id": 3
+    },
+    {
+        "spec_id": 13,
+        "spec_name": "Foglights Front and Rear",
+        "spec_type": "exterior",
+        "is_config": "yes",
+        "variant_id": 3
+    },
+    {
+        "spec_id": 16,
+        "spec_name": "Roof Carrier",
+        "spec_type": "exterior",
+        "is_config": "yes",
+        "variant_id": 3
+    },
+    {
+        "spec_id": 17,
+        "spec_name": "Antenna",
+        "spec_type": "exterior",
+        "is_config": "yes",
+        "variant_id": 3
+    },
+    {
+        "variant_id": 4,
+        "car_name" : "Ford-Aspire",
+        "spec_type": "name"
+    },
+    {
+        "spec_id": 1,
+        "spec_name": "ARAI : 36.56 kmpl",
+        "spec_type": "default",
+        "is_config": "yes",
+        "variant_id": 4
+    },
+    {
+        "spec_id": 19,
+        "spec_name": "Transmission Type : Automatic",
+        "spec_type": "default",
+        "is_config": "yes",
+        "variant_id": 4
+    },
+    {
+        "spec_id": 20,
+        "spec_name": "Fuel Tank Capacity : 40",
+        "spec_type": "default",
+        "is_config": "yes",
+        "variant_id": 4
+    },
+    {
+        "spec_id": 21,
+        "spec_name": "Engine displacement : 1208cc",
+        "spec_type": "default",
+        "is_config": "yes",
+        "variant_id": 4
+    },
+    {
+        "spec_id": 22,
+        "spec_name": "Seating Capacity : 4",
+        "spec_type": "default",
+        "is_config": "yes",
+        "variant_id": 4
+    },
+    {
+        "spec_id": 26,
+        "spec_name": "Glove Compartment",
+        "spec_type": "interior",
+        "is_config": "yes",
+        "variant_id": 4
+    },
+    {
+        "spec_id": 23,
+        "spec_name": "Tachometer",
+        "spec_type": "interior",
+        "is_config": "yes",
+        "variant_id": 4
+    },
+    {
+        "spec_id": 24,
+        "spec_name": "Digital Clock",
+        "spec_type": "interior",
+        "is_config": "yes",
+        "variant_id": 4
+    },
+    {
+        "spec_id": 25,
+        "spec_name": "Digital Odometer",
+        "spec_type": "interior",
+        "is_config": "yes",
+        "variant_id": 4
+    },
+    {
+        "spec_id": 7,
+        "spec_name": "Seat Cover",
+        "spec_type": "interior",
+        "is_config": "yes",
+        "variant_id": 4
+    },
+    {
+        "spec_id": 11,
+        "spec_name": "Air bag",
+        "spec_type": "interior",
+        "is_config": "yes",
+        "variant_id": 4
+    },
+    {
+        "spec_id": 29,
+        "spec_name": "Tyre Size: 165/70 R14",
+        "spec_type": "exterior",
+        "is_config": "yes",
+        "variant_id": 4
+    },
+    {
+        "spec_id": 15,
+        "spec_name": "Wheel Covers",
+        "spec_type": "exterior",
+        "is_config": "yes",
+        "variant_id": 4
+    },
+    {
+        "spec_id": 14,
+        "spec_name": "Exterior Mirrors",
+        "spec_type": "exterior",
+        "is_config": "yes",
+        "variant_id": 4
+    },
+    {
+        "spec_id": 34,
+        "spec_name": "Chrome Grille",
+        "spec_type": "exterior",
+        "is_config": "yes",
+        "variant_id": 4
+    },
+    {
+        "spec_id": 30,
+        "spec_name": "Tyre Type : Tubeless Radial",
+        "spec_type": "exterior",
+        "is_config": "yes",
+        "variant_id": 4
+    },
+    {
+        "spec_id": 31,
+        "spec_name": "Trunk Opener",
+        "spec_type": "exterior",
+        "is_config": "yes",
+        "variant_id": 4
+    }
+]

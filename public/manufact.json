@@ -1,0 +1,22 @@
+[
+    {
+        "mfg_id": 1,
+        "mfg_name": "Maruti Suzuki",
+        "seg_id": 1
+    },
+    {
+        "mfg_id": 2,
+        "mfg_name": "Hyundai",
+        "seg_id": 1
+    },
+    {
+        "mfg_id": 3,
+        "mfg_name": "Tata",
+        "seg_id": 2
+    },
+    {
+        "mfg_id": 4,
+        "mfg_name": "Ford",
+        "seg_id": 2
+    }
+]

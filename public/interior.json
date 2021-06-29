@@ -1,0 +1,60 @@
+[
+    { 
+        "modif_id": 1,
+        "variant_id": 1,
+        "spec_id": 11,
+        "modif_name": "Air Bags",
+        "choices": [
+            {
+                "choice_id":1,
+                "choice_name":"None",
+                "price":0
+            },
+            {
+                "choice_id":2,
+                "choice_name":"Frontal Airbags",
+                "price":2000
+            },
+            {
+                "choice_id":3,
+                "choice_name":"Side Airbags",
+                "price":3000
+            },
+            {
+                "choice_id":4,
+                "choice_name":"Knee Airbags",
+                "price":1000
+            }
+        ],
+        "modif_price": 7000
+    },
+    {
+        "modif_id": 2,
+        "variant_id": 1,
+        "spec_id": 7,
+        "modif_name": "Seat Cover",
+        "choices": [
+            {
+                "choice_id":1,
+                "choice_name":"None",
+                "price":0
+            },
+            {
+                "choice_id":2,
+                "choice_name":"Semi custom seat covers",
+                "price":4000
+            },
+            {
+                "choice_id":3,
+                "choice_name":"Custom fit seat covers",
+                "price":4500
+            },
+            {
+                "choice_id":4,
+                "choice_name":"Universal seat covers",
+                "price":5500
+            }
+        ],
+        "modif_price": 6000
+    }
+]
